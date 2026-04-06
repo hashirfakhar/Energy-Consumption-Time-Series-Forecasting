@@ -1,5 +1,3 @@
-# Task 8 – Energy Consumption Time Series Forecasting
-
 ## Objective
 Forecast household energy consumption using time series models (ARIMA, Prophet, XGBoost) to analyze trends, seasonality, and make accurate predictions of future energy usage.
 
